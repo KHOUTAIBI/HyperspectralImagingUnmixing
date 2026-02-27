@@ -1,5 +1,3 @@
----
-
 # Hyperspectral Spectral Decomposition via Plug-and-Play Regularization
 
 ## 1. Motivation
